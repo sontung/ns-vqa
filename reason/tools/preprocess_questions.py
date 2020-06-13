@@ -8,9 +8,9 @@ import json
 import h5py
 import numpy as np
 
-import utils.programs as program_utils
-import utils.preprocess as preprocess_utils
-import utils.utils as utils
+import programs as program_utils
+import preprocess as preprocess_utils
+import utils as utils
 
 
 parser = argparse.ArgumentParser()
